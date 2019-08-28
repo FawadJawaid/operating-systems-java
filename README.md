@@ -1,0 +1,2 @@
+# operating-systems-java
+This is one of the most difficult projects, I have worked on. This project is divided into three phases; in the first phase, I was supposed to make VM Architecture. Inraphical User In the second one, Process and Memory Management. And in the third one, I was supposed to make a Graphical User Interface (GUI) in Java for the whole project. The requirements file for three phases is uploaded in the PDF format.
