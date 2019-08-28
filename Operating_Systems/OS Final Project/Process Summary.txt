@@ -1,0 +1,9 @@
+Process ID: 1
+==================
+
+No. of Register-Register Instructions: 0
+No. of Register-Immediate Instructions: 16
+No. of Memory Instructions: 32
+No. of Single Operand Instructions: 64
+No. of No Operand Instructions: 1727
+Toatal No. of Instructions: 1839
